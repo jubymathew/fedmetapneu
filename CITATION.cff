@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "FedMetaPneu"
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Mathew
+    given-names: Juby
+    affiliation: "Department of Computer Science and Engineering, Amal Jyothi College of Engineering, Kanjirappally, Kerala, India"
+    email: jubymathew@amaljyothi.ac.in
+preferred-citation:
+  type: article
+  title: "FedMetaPneu: Metaheuristic Optimization of Privacy-Preserving Federated Learning for Pneumonia Screening on Chest Radiographs"
+  authors:
+    - family-names: Mathew
+      given-names: Juby
+  year: 2026

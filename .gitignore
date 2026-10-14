@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Experiment outputs, data and weights (never commit patient images)
+/runs/
+/data/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.dcm
+*.dicom
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
